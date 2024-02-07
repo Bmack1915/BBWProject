@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "0WYNa6bXVmJTbAry4oin8Hu9a7KNV96IzXDP+LfExKgP0LOJICISAoikr7drQWIsvUZ0eSPSQoN0nt8+5V6dVQ==",
+  "dgSpecHash": "YlHLbi6DS59XyqJVdTh4UD4ctakjEUFWqxynvoP1yyBZDPIrvFwNLYDuEcFxNHcU6eG+RppCdteFqzn+8fU/2w==",
   "success": true,
-  "projectFilePath": "/Users/macke/Projects/TransactionTracker/TransactionTracker/TransactionTracker.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/user/Documents/GitHub/BBWProject/TransactionTracker/TransactionTracker/TransactionTracker.csproj",
+  "expectedPackageFiles": [
+    "/Users/user/.nuget/packages/microsoft.netcore.app.ref/7.0.15/microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/user/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.15/microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/user/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.15/microsoft.netcore.app.host.osx-x64.7.0.15.nupkg.sha512"
+  ],
   "logs": []
 }
