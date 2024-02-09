@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{127982FD-99E3-4103-8344-80060847D5D0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TransactionTracker/Catagory.cs">
+    <Files>
+      <File FileName="TransactionTracker/Program.cs" />
+      <File FileName="TransactionTracker/Expense.cs" />
+      <File FileName="TransactionTracker/Catagory.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TransactionTracker" selected="True">
+            <Node name="TransactionTracker" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TransactionTracker PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
